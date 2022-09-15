@@ -1,0 +1,28 @@
+
+[
+  {
+    "name": "Coffee",
+    "price": 2.5,
+    "id": 0
+  },
+  {
+    "name": "Coffee",
+    "price": 2.5,
+    "id": 1
+  },
+  {
+    "name": "Coffee",
+    "price": 2.5,
+    "id": 2
+  },
+  {
+    "name": "Coffee",
+    "price": 2.5,
+    "id": 3
+  },
+  {
+    "name": "Coffee",
+    "price": 2.5,
+    "id": 4
+  }
+]
